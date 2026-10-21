@@ -1,1 +1,0 @@
-create database employee_leave_db;
